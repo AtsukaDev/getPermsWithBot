@@ -14,7 +14,8 @@ Before running the script, make sure to complete the following variables in the 
 ```javascript
 const token = ''; // TOKEN OF YOUR BOT
 const userId = ''; // ID OF THE USER WHO WANTS THE ROLE
-const serverId = ''; // SERVER TO ADD THE ROLE```
+const serverId = ''; // SERVER TO ADD THE ROLE
+```
 
 # Usage
 
