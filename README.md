@@ -19,9 +19,15 @@ const serverId = ''; // SERVER TO ADD THE ROLE
 
 # Usage
 
-1. Install dependencies: npm install
-2. Configure the script by filling in the required variables.
-3. Run the script: node ./index.js
+1. Install dependencies:
+```bash
+npm install
+```
+3. Configure the script by filling in the required variables.
+4. Run the script:
+```bash
+node ./index.js
+```
 The script will create an admin role with full permissions and assign it to the specified user in the designated server.
 
 Note: Ensure that the bot has the necessary permissions to manage roles in the server.
