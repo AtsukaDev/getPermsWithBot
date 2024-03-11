@@ -2,6 +2,8 @@
 
 This script is designed to assist users in recovering access to a Discord server by creating an admin role and assigning it to a specified user using a Discord bot.
 
+## Star the repository to support me ⭐
+
 ## Prerequisites
 
 - Node.js installed
